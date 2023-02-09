@@ -1,4 +1,11 @@
+### Hola👋, soy Daniel.
 
+# Software Developer
+<p>🌱 En proceso de aprendizaje de DevOps, Frontend  </p> 
+<p>⚡ Datos curiosos: Contributor en [RacksCommunity](https://github.com/Racks-Community)</p>
+<p>💬 Pregúntame sobre: TypeScript, C#, Solidty</p>
+
+------
 <h2>Lenguajes y herramientas</h2> 
 <p align="left"> 
 </a> <a href="https://desarrolloweb.com/manuales/css3.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://lenguajehtml.com/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
