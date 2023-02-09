@@ -1,9 +1,9 @@
 ### Hola👋, soy Daniel.
 
 # Software Developer
-<p>🌱 En proceso de aprendizaje de DevOps, Frontend  </p> 
-<p>⚡ Datos curiosos: Contributor en [RacksCommunity](https://github.com/Racks-Community)</p>
-<p>💬 Pregúntame sobre: TypeScript, C#, Solidty</p>
+- 🌱 En proceso de aprendizaje de DevOps, Dieseño Frontend  
+- ⚡ Datos curiosos: Contributor en [RacksCommunity](https://github.com/Racks-Community)
+- 💬 Pregúntame sobre: TypeScript, C#, Node, React, Solidty
 
 ------
 <h2>Lenguajes y herramientas</h2> 
