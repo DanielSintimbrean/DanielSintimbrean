@@ -1,4 +1,4 @@
-### Hola👋, soy Daniel.
+### Hola <img src="https://raw.githubusercontent.com/DanielSintimbrean/DanielSintimbrean/master/wave.gif" width="20px">, soy Daniel.
 
 # Software Developer
 - 🌱 En proceso de aprendizaje de DevOps, Dieseño Frontend  
