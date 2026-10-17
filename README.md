@@ -1,6 +1,6 @@
 # Daniel Sintimbrean
 
-**Ingeniero de software full-stack** · Andorra · remoto o en Andorra
+**Ingeniero de software full-stack** · Andorra
 
 Diseño y construyo productos web de la arquitectura a producción. Me gusta entender bien el problema antes de abrir el editor, y seguir el hilo de un fallo hasta encontrar la causa real.
 
