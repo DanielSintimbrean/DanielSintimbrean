@@ -1,27 +1,26 @@
-### Hola <img src="https://raw.githubusercontent.com/DanielSintimbrean/DanielSintimbrean/master/wave.gif" width="20px">, soy Daniel.
+# Daniel Sintimbrean
 
-# Software Developer
-- 🌱 En proceso de aprendizaje de DevOps, Dieseño Frontend  
-- ⚡ Datos curiosos: Contributor en [RacksCommunity](https://github.com/Racks-Community)
-- 💬 Pregúntame sobre: TypeScript, C#, Node, React, Solidty
+**Ingeniero de software full-stack** · Andorra · remoto o en Andorra
 
-------
-<h2>Lenguajes y herramientas</h2> 
-<p align="left"> 
-</a> <a href="https://desarrolloweb.com/manuales/css3.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://lenguajehtml.com/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailWind"  width="40" height="40" /> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-    <a href="https://www.linux.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="csharp" width="40" height="40"/> </a> 
-  </p>
+Diseño y construyo productos web de la arquitectura a producción. Me gusta entender bien el problema antes de abrir el editor, y seguir el hilo de un fallo hasta encontrar la causa real.
 
-------
+## Lo que he construido
 
-## Estadísticas
+- **Plataforma de entradas y accesos** para Andorra Economic Forum y Madrid Economic Forum: mapa interactivo de más de 10.000 asientos, pagos (Redsys), control de accesos y despliegue.
+- **Mediquea**: app de estudio para estudiantes de Medicina con repetición espaciada (FSRS), tutorías con Cal.com y suscripciones con Stripe. En solitario.
+- **ZCOO**: nuevo frontend en Astro y Three.js sobre una tienda WooCommerce existente.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielSintimbrean&show_icons=true&theme=github_dark)](https://github.com/DanielSintimbrean)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSintimbrean&layout=compact&theme=github_dark)](https://github.com/DanielSintimbrean)
+## Proyectos públicos
+
+- [`omarchy-focus-guard`](https://github.com/DanielSintimbrean/omarchy-focus-guard): bloqueador de distracciones para la barra de Omarchy (QML)
+- [`omarchy-audiobook`](https://github.com/DanielSintimbrean/omarchy-audiobook): reproductor de audiolibros que retoma donde lo dejaste (QML)
+- [`t3code-android-nightly`](https://github.com/DanielSintimbrean/t3code-android-nightly): builds nightly no oficiales de T3 Code para Android
+- [`dotfiles`](https://github.com/DanielSintimbrean/dotfiles) y [`homelab-nixos`](https://github.com/DanielSintimbrean/homelab-nixos): mi entorno Linux y un media server con NixOS
+
+## Stack
+
+`TypeScript` `React` `Next.js` `Node.js` `NestJS` `MongoDB` `Redis` `Astro` `TanStack` `Convex` `Stripe` `AWS` `C#/.NET` `Linux`
+
+## Contacto
+
+[danields.dev](https://danields.dev) · [LinkedIn](https://www.linkedin.com/in/daniel-sintimbrean) · contacto@danields.dev
